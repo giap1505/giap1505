@@ -1,24 +1,39 @@
-<!-- Banner hoặc câu chào -->
-<h1 align="center">👋 Xin chào, mình là Giáp</h1>
-<p align="center">
-  Đang học & làm về Unity, C#, Python (AI) — mục tiêu: tạo game tu tiên thế giới mở với NPC AI thông minh.
-</p>
+<!-- ===================== HEADER + TYPING ===================== -->
+<div align="center">
+
+<!-- Chữ động tự chạy -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Gi%C3%A1p;Unity+%2B+C%23+%7C+Python+AI;TypeScript+%2F+JavaScript+%2F+Java;HTML+%26+CSS+%7C+ASP.NET+Backend;Goal%3A+Game+tu+ti%C3%AAn+AAA+%E2%9C%A8+AI+NPC)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ### 🚀 Về mình
-- 🔭 Dự định: build game AAA phong cách tu tiên (open world, multi-server, AI NPC học hỏi).
-- 💡 Quan tâm: **Unity/C#**, **Python (AI/ML)**, **ASP.NET backend**.
-- 🎯 Mục tiêu gần: hoàn thiện prototype gameplay + hệ thống AI NPC cơ bản.
+- Đang build game tu tiên (open world) với AI NPC thông minh.
+- Tech chính: **Unity/C#**, **Python (AI)**, **.NET backend**, + web stack.
 
 ---
 
-### 🧰 Tech & Tools
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+### 🧠 Ngôn ngữ lập trình
+[![Langs](https://skillicons.dev/icons?i=cs,python,ts,js,java,html,css&perline=10)](https://skillicons.dev)
+
+### 🎮 Game/Engine
+[![Engines](https://skillicons.dev/icons?i=unity,unreal&perline=10)](https://skillicons.dev)
+
+### 🌐 Web & Backend
+[![Web](https://skillicons.dev/icons?i=dotnet,nodejs&perline=10)](https://skillicons.dev)
+
+### 🗄️ Database
+[![DB](https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=10)](https://skillicons.dev)
+
+### 🧰 Tools
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,bash,powershell&perline=10)](https://skillicons.dev)
+
+### 🧑‍💻 IDE/Editor
+[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,idea,rider,pycharm,phpstorm&perline=10)](https://skillicons.dev)
+
+### 🎨 3D & DCC (tuỳ dự án)
+[![DCC](https://skillicons.dev/icons?i=blender,maya,ps&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -26,21 +41,17 @@
 - 🔹 [Tên dự án 1](https://github.com/giap1505/ten-du-an-1) – mô tả ngắn 1–2 dòng.
 - 🔹 [Tên dự án 2](https://github.com/giap1505/ten-du-an-2) – mô tả ngắn 1–2 dòng.
 
-> Gợi ý: tạo repo demo nhỏ (ví dụ **Unity-AAA-Movement**, **AINPC-Training-Demo**) rồi **pin** ở phần “Customize your pins” (xem bên dưới).
+> Gợi ý: tạo repo demo như **Unity-AAA-Movement**, **AINPC-Training-Demo** và pin lên profile.
 
 ---
 
 ### 📊 Số liệu GitHub
-![Giáp's GitHub stats](https://github-readme-stats.vercel.app/api?username=giap1505&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giap1505&layout=compact)
-
-<!-- Chuỗi streak (tuỳ thích) -->
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=giap1505)](https://git.io/streak-stats)
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=giap1505&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giap1505&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Liên hệ
 - Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/your-handle  
+- LinkedIn: https://www.linkedin.com/in/your-handle
+
