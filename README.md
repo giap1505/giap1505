@@ -5,9 +5,20 @@
 
 </div>
 
+---
+
+### 🚀 Về mình
+- Đang build game tu tiên (open world) với AI NPC thông minh.
+- Tech chính: **Unity/C#**, **Python (AI)**, **.NET backend**, + web stack.
+
+---
 
 ### 🧠 Ngôn ngữ lập trình
-[![Langs](https://skillicons.dev/icons?i=cs,python,ts,js,java,html,css&perline=10)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=cs,python,ts,js,java,html,css,c,cpp&perline=10)](https://skillicons.dev)
+<!-- Assembly chưa có icon chính thức trong skillicons, thêm badge ASM riêng bên dưới -->
+<p>
+  <img src="https://img.shields.io/badge/Assembly-ASM-6E6E6E?style=flat&labelColor=111111" height="32" alt="Assembly ASM"/>
+</p>
 
 ### 🎮 Game/Engine
 [![Engines](https://skillicons.dev/icons?i=unity,unreal&perline=10)](https://skillicons.dev)
@@ -46,4 +57,3 @@
 ### 📫 Liên hệ
 - Email: your.email@example.com  
 - LinkedIn: https://www.linkedin.com/in/your-handle
-
