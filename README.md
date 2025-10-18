@@ -1,9 +1,10 @@
-<!-- ===================== HEADER + TYPING (Giới thiệu & Ý tưởng) ===================== -->
+<!-- ===================== HEADER + TYPING (Giới thiệu) ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Gi%E1%BB%9Bi+thi%E1%BB%87u+%26+%C3%9D+t%C6%B0%E1%BB%9Fng;M%C3%ACnh+l%C3%A0+Gi%C3%A1p+%E2%80%94+Dev+game+Unity+%2B+AI;Game+tu+ti%C3%AAn+th%E1%BA%BF+gi%E1%BB%9Bi+m%E1%BB%9F+%7C+Multiplayer;NPC+AI+h%E1%BB%8Dc+h%E1%BB%8Fi%2C+t%E1%BB%B1+ti%E1%BA%BFn+h%C3%B3a;Server+chia+%C4%91%E1%BA%A1i+l%E1%BB%A5c%2C+b%E1%BA%A3n+%C4%91%E1%BB%93+l%E1%BB%9Bn;M%E1%BB%A5c+ti%C3%AAu%3A+Prototype+AAA+m%C6%B0%E1%BB%A3t)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3500&pause=900&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&center=true&vCenter=true&repeat=true&width=1000&lines=Ch%C3%A0o+b%E1%BA%A1n!+M%C3%ACnh+l%C3%A0+Gi%C3%A1p;D%C6%B0%E1%BB%9Bi+%C4%91%C3%A2y+l%C3%A0+m%E1%BB%99t+s%E1%BB%91+th%C3%B4ng+tin+v%E1%BB%81+m%C3%ACnh)](https://git.io/typing-svg)
 
 </div>
+
 
 ### 🧠 Ngôn ngữ lập trình
 [![Langs](https://skillicons.dev/icons?i=cs,python,ts,js,java,html,css&perline=10)](https://skillicons.dev)
