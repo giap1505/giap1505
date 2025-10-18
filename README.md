@@ -1,17 +1,9 @@
-<!-- ===================== HEADER + TYPING (Rainbow) ===================== -->
+<!-- ===================== HEADER + TYPING (Giới thiệu & Ý tưởng) ===================== -->
 <div align="center">
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%20%22Ch%C3%A0o%20b%E1%BA%A1n%21%20M%C3%ACnh%20l%C3%A0%20Gi%C3%A1p%22%2C%20%22color%22%3A%20%22%23FF0000%22%7D%2C%20%7B%22text%22%3A%20%22D%C6%B0%E1%BB%9Bi%20%C4%91%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%B4ng%20tin%20v%E1%BB%81%20m%C3%ACnh%22%2C%20%22color%22%3A%20%22%23FF7F00%22%7D%2C%20%7B%22text%22%3A%20%22Ch%C3%A0o%20b%E1%BA%A1n%21%20M%C3%ACnh%20l%C3%A0%20Gi%C3%A1p%22%2C%20%22color%22%3A%20%22%23FFFF00%22%7D%2C%20%7B%22text%22%3A%20%22D%C6%B0%E1%BB%9Bi%20%C4%91%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%B4ng%20tin%20v%E1%BB%81%20m%C3%ACnh%22%2C%20%22color%22%3A%20%22%2300FF00%22%7D%2C%20%7B%22text%22%3A%20%22Ch%C3%A0o%20b%E1%BA%A1n%21%20M%C3%ACnh%20l%C3%A0%20Gi%C3%A1p%22%2C%20%22color%22%3A%20%22%230000FF%22%7D%2C%20%7B%22text%22%3A%20%22D%C6%B0%E1%BB%9Bi%20%C4%91%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%B4ng%20tin%20v%E1%BB%81%20m%C3%ACnh%22%2C%20%22color%22%3A%20%22%234B0082%22%7D%2C%20%7B%22text%22%3A%20%22Ch%C3%A0o%20b%E1%BA%A1n%21%20M%C3%ACnh%20l%C3%A0%20Gi%C3%A1p%22%2C%20%22color%22%3A%20%22%239400D3%22%7D%5D&font=JetBrains+Mono&fontWeight=800&fontSize=28&typingSpeed=0.2&deleteSpeed=0.2&pause=900&repeat=true&center=true&vCenter=true&backgroundOpacity=0)](https://typingsvg.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Gi%E1%BB%9Bi+thi%E1%BB%87u+%26+%C3%9D+t%C6%B0%E1%BB%9Fng;M%C3%ACnh+l%C3%A0+Gi%C3%A1p+%E2%80%94+Dev+game+Unity+%2B+AI;Game+tu+ti%C3%AAn+th%E1%BA%BF+gi%E1%BB%9Bi+m%E1%BB%9F+%7C+Multiplayer;NPC+AI+h%E1%BB%8Dc+h%E1%BB%8Fi%2C+t%E1%BB%B1+ti%E1%BA%BFn+h%C3%B3a;Server+chia+%C4%91%E1%BA%A1i+l%E1%BB%A5c%2C+b%E1%BA%A3n+%C4%91%E1%BB%93+l%E1%BB%9Bn;M%E1%BB%A5c+ti%C3%AAu%3A+Prototype+AAA+m%C6%B0%E1%BB%A3t)](https://git.io/typing-svg)
 
 </div>
-
----
-
-### 🚀 Về mình
-- Đang build game tu tiên (open world) với AI NPC thông minh.
-- Tech chính: **Unity/C#**, **Python (AI)**, **.NET backend**, + web stack.
-
----
 
 ### 🧠 Ngôn ngữ lập trình
 [![Langs](https://skillicons.dev/icons?i=cs,python,ts,js,java,html,css&perline=10)](https://skillicons.dev)
