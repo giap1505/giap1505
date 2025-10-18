@@ -1,10 +1,9 @@
-<!-- ===================== HEADER + TYPING (Giới thiệu) ===================== -->
+<!-- ===================== HEADER + TYPING (Rainbow) ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3500&pause=900&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&center=true&vCenter=true&repeat=true&width=1000&lines=Ch%C3%A0o+b%E1%BA%A1n!+M%C3%ACnh+l%C3%A0+Gi%C3%A1p;D%C6%B0%E1%BB%9Bi+%C4%91%C3%A2y+l%C3%A0+m%E1%BB%99t+s%E1%BB%91+th%C3%B4ng+tin+v%E1%BB%81+m%C3%ACnh)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%20%22Ch%C3%A0o%20b%E1%BA%A1n%21%20M%C3%ACnh%20l%C3%A0%20Gi%C3%A1p%22%2C%20%22color%22%3A%20%22%23FF0000%22%7D%2C%20%7B%22text%22%3A%20%22D%C6%B0%E1%BB%9Bi%20%C4%91%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%B4ng%20tin%20v%E1%BB%81%20m%C3%ACnh%22%2C%20%22color%22%3A%20%22%23FF7F00%22%7D%2C%20%7B%22text%22%3A%20%22Ch%C3%A0o%20b%E1%BA%A1n%21%20M%C3%ACnh%20l%C3%A0%20Gi%C3%A1p%22%2C%20%22color%22%3A%20%22%23FFFF00%22%7D%2C%20%7B%22text%22%3A%20%22D%C6%B0%E1%BB%9Bi%20%C4%91%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%B4ng%20tin%20v%E1%BB%81%20m%C3%ACnh%22%2C%20%22color%22%3A%20%22%2300FF00%22%7D%2C%20%7B%22text%22%3A%20%22Ch%C3%A0o%20b%E1%BA%A1n%21%20M%C3%ACnh%20l%C3%A0%20Gi%C3%A1p%22%2C%20%22color%22%3A%20%22%230000FF%22%7D%2C%20%7B%22text%22%3A%20%22D%C6%B0%E1%BB%9Bi%20%C4%91%C3%A2y%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%B4ng%20tin%20v%E1%BB%81%20m%C3%ACnh%22%2C%20%22color%22%3A%20%22%234B0082%22%7D%2C%20%7B%22text%22%3A%20%22Ch%C3%A0o%20b%E1%BA%A1n%21%20M%C3%ACnh%20l%C3%A0%20Gi%C3%A1p%22%2C%20%22color%22%3A%20%22%239400D3%22%7D%5D&font=JetBrains+Mono&fontWeight=800&fontSize=28&typingSpeed=0.2&deleteSpeed=0.2&pause=900&repeat=true&center=true&vCenter=true&backgroundOpacity=0)](https://typingsvg.vercel.app/)
 
 </div>
-
 
 ---
 
