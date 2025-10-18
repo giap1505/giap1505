@@ -1,8 +1,7 @@
-<!-- ===================== HEADER + TYPING ===================== -->
+<!-- ===================== HEADER + TYPING (Giới thiệu & Ý tưởng) ===================== -->
 <div align="center">
 
-<!-- Chữ động tự chạy -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Gi%C3%A1p;Unity+%2B+C%23+%7C+Python+AI;TypeScript+%2F+JavaScript+%2F+Java;HTML+%26+CSS+%7C+ASP.NET+Backend;Goal%3A+Game+tu+ti%C3%AAn+AAA+%E2%9C%A8+AI+NPC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Gi%E1%BB%9Bi+thi%E1%BB%87u+%26+%C3%9D+t%C6%B0%E1%BB%9Fng;M%C3%ACnh+l%C3%A0+Gi%C3%A1p+%E2%80%94+Dev+game+Unity+%2B+AI;Game+tu+ti%C3%AAn+th%E1%BA%BF+gi%E1%BB%9Bi+m%E1%BB%9F+%7C+Multiplayer;NPC+AI+h%E1%BB%8Dc+h%E1%BB%8Fi%2C+t%E1%BB%B1+ti%E1%BA%BFn+h%C3%B3a;Server+chia+%C4%91%E1%BA%A1i+l%E1%BB%A5c%2C+b%E1%BA%A3n+%C4%91%E1%BB%93+l%E1%BB%9Bn;M%E1%BB%A5c+ti%C3%AAu%3A+Prototype+AAA+m%C6%B0%E1%BB%A3t)](https://git.io/typing-svg)
 
 </div>
 
