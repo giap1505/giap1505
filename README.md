@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Về mình
-- Đang build game tu tiên (open world) với AI NPC thông minh.
+- Đang build game (open world) + AI NPC .
 - Tech chính: **Unity/C#**, **Python (AI)**, **.NET backend**, + web stack.
 
 ---
@@ -38,15 +38,6 @@
 ### 🎨 3D & DCC (tuỳ dự án)
 [![DCC](https://skillicons.dev/icons?i=blender,maya,ps&perline=10)](https://skillicons.dev)
 
----
-
-### 📦 Dự án nổi bật
-- 🔹 [Tên dự án 1](https://github.com/giap1505/ten-du-an-1) – mô tả ngắn 1–2 dòng.
-- 🔹 [Tên dự án 2](https://github.com/giap1505/ten-du-an-2) – mô tả ngắn 1–2 dòng.
-
-> Gợi ý: tạo repo demo như **Unity-AAA-Movement**, **AINPC-Training-Demo** và pin lên profile.
-
----
 
 ### 📊 Số liệu GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=giap1505&show_icons=true&theme=tokyonight)
@@ -54,6 +45,3 @@
 
 ---
 
-### 📫 Liên hệ
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/your-handle
